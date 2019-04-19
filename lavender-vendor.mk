@@ -729,12 +729,12 @@ PRODUCT_PACKAGES += \
     SoterService \
     datastatusnotification \
     embms \
-    imssettings \
     CNEService \
     WfdService \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
+    imssettings \
     FingerprintExtensionService \
     PowerOffAlarm \
     TimeService \
